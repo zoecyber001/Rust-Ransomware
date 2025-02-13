@@ -16,7 +16,7 @@ file.close()
 class ExampleApp(tk.Tk):
     def __init__(self):
         tk.Tk.__init__(self)
-        self.title("Peter's Ransomware")
+        self.title("Russia's Ransomware")
         self.configure(bg='red')
 
         self.frame_upper = tk.Frame(master=self, height=50, bg="red")
